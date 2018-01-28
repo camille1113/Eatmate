@@ -6,9 +6,8 @@ import android.graphics.Rect;
 import android.graphics.drawable.Drawable;
 import android.support.v7.widget.LinearLayoutManager;
 import android.view.View;
-
 /**
- * Created by zhanglanxin on 5/2/17.
+ * source https://github.com/bignerdranch
  */
 
 public class EndOffsetItemDecoration extends RecyclerView.ItemDecoration {
