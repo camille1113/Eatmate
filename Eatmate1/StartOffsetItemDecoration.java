@@ -6,7 +6,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 /**
- * Created by zhanglanxin on 5/2/17.
+ * source https://github.com/bignerdranch
  */
 
 public class StartOffsetItemDecoration extends RecyclerView.ItemDecoration{
